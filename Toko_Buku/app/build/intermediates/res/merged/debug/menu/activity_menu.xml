@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item
+     android:id="@+id/menu_cari"
+     android:icon="@drawable/ic_action_search2"  
+     android:showAsAction="always"/>
+<item
+    android:id="@+id/root_menu"
+    android:icon="@drawable/ic_action_overflow2"   
+    android:title="Menu_Overflow"
+    android:showAsAction="always">
+    <menu>                   
+    <item
+        android:id="@+id/menu_terbit"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_important2"          
+        android:title="@string/menu_terbit"/>
+    <item
+        android:id="@+id/menu_daftar"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_add_person2"          
+        android:title="@string/menu_daftar"/>          
+    <item
+        android:id="@+id/menu_isi_sk"
+        android:orderInCategory="3"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_new_label2"          
+        android:title="@string/menu_isi_sk"/>           
+    <item
+        android:id="@+id/menu_lihat_sk"
+        android:orderInCategory="4"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_labels2"          
+        android:title="@string/menu_lihat_sk"/>                  
+    <item
+        android:id="@+id/menu_info"
+        android:orderInCategory="5"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_about2"          
+        android:title="@string/menu_info"/>      
+    </menu>
+</item>
+</menu>

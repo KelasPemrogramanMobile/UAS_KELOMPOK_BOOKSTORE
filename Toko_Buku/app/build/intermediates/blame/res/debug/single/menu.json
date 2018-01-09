@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_beli.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_beli.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_checkout.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_checkout.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_isisk.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_isisk.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_buku.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_buku.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_terbit.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_terbit.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_pelanggan.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_pelanggan.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_cari_tampil.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_cari_tampil.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_lhtsk.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_lhtsk.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_tentkami.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_tentkami.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_cari.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_cari.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\menu\\activity_menu.xml"
+    }
+]

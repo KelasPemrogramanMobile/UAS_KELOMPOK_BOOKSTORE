@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_email.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_elemen.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_elemen.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tentkami.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_tentkami.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cari.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_cari.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_checkout.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pelanggan.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_pelanggan.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_akan_terbit.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_akan_terbit.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_isisk.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_isisk.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buku.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_buku.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lihatsk.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_lihatsk.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_beli.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\activity_beli.xml"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    }
+]

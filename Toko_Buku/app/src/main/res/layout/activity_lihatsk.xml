@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+     
+		<FrameLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+       	    android:layout_marginTop="5dp"  
+       	    android:layout_marginBottom="5dp"  	
+	        android:layout_marginLeft="2dp"
+	        android:layout_marginRight="2dp"        
+            >  
+            
+            <TextView 
+		        android:id="@+id/namatv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="10dp" 
+		        android:text="Nama   "
+		        android:textSize="15dp"
+		        android:textStyle="bold"
+		    />	
+		    
+            <TextView 
+		        android:id="@+id/namat2tv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="10dp" 
+		        android:layout_marginLeft="75dp" 
+		        android:text=" : "
+		        android:textSize="12dp"
+		    />	
+        
+	        <TextView 
+		        android:id="@+id/namatxt"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="10dp" 
+		        android:layout_marginLeft="100dp" 		        
+		        android:textSize="15dp"
+		        android:textStyle="bold"
+		    />	        
+	        
+            <TextView 
+		        android:id="@+id/tanggaltv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="30dp" 		        
+		        android:text="Tanggal   "
+		        android:textSize="12dp"
+		    />	
+		    
+            <TextView 
+		        android:id="@+id/tanggalt2tv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="30dp" 
+		        android:layout_marginLeft="75dp" 		        
+		        android:text=" : "
+		        android:textSize="12dp"
+		    />		   
+		         
+			<TextView 
+		        android:id="@+id/tgltxt"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="30dp" 
+		        android:layout_marginLeft="100dp" 		        
+		        android:textSize="12dp"        
+	        />   
+	        
+            <TextView 
+		        android:id="@+id/emailtv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="50dp" 		        
+		        android:text="Email   "
+		        android:textSize="12dp"
+		    />	
+		    
+            <TextView 
+		        android:id="@+id/emailt2tv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="50dp" 
+		        android:layout_marginLeft="75dp" 		        
+		        android:text=" : "
+		        android:textSize="12dp"
+		    />	
+		    		
+	        <TextView 
+		        android:id="@+id/emailtxt"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="50dp" 
+		        android:layout_marginLeft="100dp" 		        
+		        android:textSize="12dp"
+		    />	        	
+	        	        
+            <TextView 
+		        android:id="@+id/komentv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="70dp" 		        
+		        android:text="Komentar   "
+		        android:textSize="12dp"
+		    />	
+		    
+            <TextView 
+		        android:id="@+id/koment2tv"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="70dp" 
+		        android:layout_marginLeft="75dp" 		        
+		        android:text=" : "
+		        android:textSize="12dp"
+		    />	            
+		                
+			<TextView
+			    android:id="@+id/komentxt"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_marginLeft="100dp"
+			    android:layout_marginTop="70dp"
+			    android:textSize="12dp" 
+			/>
+	       
+	</FrameLayout>
+			
+</LinearLayout>
+    
+
+

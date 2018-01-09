@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tmflabs.toko_buku"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/maxikom"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.tmflabs.toko_buku.splashscreen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Menu_Activity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Checkout_Activity"
+            android:label="@string/act_checkout" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Beli_Activity"
+            android:label="@string/act_beli" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Email_Activity"
+            android:label="@string/act_email" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Buku_Activity"
+            android:label="@string/act_buku" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Cari_Activity"
+            android:label="@string/act_cari" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Cari_Tampil_Activity"
+            android:label="@string/act_cari_tampil" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.TentKami_Activity"
+            android:label="@string/act_tentkami" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.IsiSk_Activity"
+            android:label="@string/act_isisk" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.LihatSk_Activity"
+            android:label="@string/act_lhtsk" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Pelanggan_Activity"
+            android:label="@string/act_daftar" >
+        </activity>
+        <activity
+            android:name="com.tmflabs.toko_buku.Akan_Terbit_Activity"
+            android:label="@string/act_terbit" >
+        </activity>
+    </application>
+
+</manifest>

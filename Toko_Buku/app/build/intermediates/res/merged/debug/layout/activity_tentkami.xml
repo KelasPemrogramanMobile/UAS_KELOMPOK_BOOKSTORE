@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp" >
+
+        <TextView
+            android:id="@+id/infotxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bagi Anda yang ingin menyampaikan kritik dan saran serta informasi lebih, hubungi alamat di bawah ini :\n\nAlamat Store    :  Jl. Gatot Subroto  \n                              No. 32 A5-A6\n                              Lampung 35371\n                              Lampung, Indonesia\n atau via e-mail : bookstorebdl@gmail.com                       \n                              Indosat : 0857 0907 9750\n                              fax : ( 0711 ) 717 818\n                              Pin BB : B4FRNOK" />
+
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,61 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    	<item name="android:actionBarStyle">@style/ActionBar</item> 
+    	<item name="android:popupMenuStyle">@style/PopupMenu</item>
+		<item name="android:actionBarWidgetTheme">@style/Theme.stylingactionbar.widget</item>     	
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#009347</item>
+        <item name="android:titleTextStyle">@style/TitleActionBar</item>     	   
+    </style>
+    
+    <style name="TitleActionBar" parent="@android:style/TextAppearance">         
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#f8f8ff</item>             
+    </style>  
+        
+    <style name="Theme.stylingactionbar.widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+    </style>  
+        
+    <style name="PopupMenu" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">#009347</item>
+    </style>
+
+
+
+
+    <color name="bg_login">#009347</color>
+    <color name="bg_register">#009347</color>
+    <color name="bg_main">#009347</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#ffffff</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#009347</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#009347</color>
+
+
+    
+</resources>

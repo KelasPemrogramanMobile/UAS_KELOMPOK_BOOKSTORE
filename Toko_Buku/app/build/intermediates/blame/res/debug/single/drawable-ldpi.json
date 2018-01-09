@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\maxikom.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\maxikom.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\software.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\software.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\pemrograman.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\pemrograman.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\hardware.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\hardware.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\design.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\design.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\umum.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\umum.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\system.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\system.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\internet.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\internet.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\jaringan.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\jaringan.png"
+    },
+    {
+        "merged": "D:\\as\\Toko_Buku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\office.png",
+        "source": "D:\\as\\Toko_Buku\\app\\src\\main\\res\\drawable-ldpi\\office.png"
+    }
+]

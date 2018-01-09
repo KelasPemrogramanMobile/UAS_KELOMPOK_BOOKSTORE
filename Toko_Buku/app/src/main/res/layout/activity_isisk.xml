@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+    
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical" >
+	
+	    <FrameLayout
+	        android:background="#E0E0E0"        
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="0dp"
+	        android:layout_marginRight="0dp"
+	        android:layout_marginTop="0dp" >
+	        
+	        <TextView
+	            android:id="@+id/infotxt"
+				android:gravity="center_horizontal"                      
+	            android:layout_marginTop="10dp"
+	            android:layout_marginBottom="10dp"   
+	            android:textStyle="bold"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:text="Silahkan Input Kritik, Saran, Dan Komentar !" 
+	            android:textSize="14sp" />
+	    </FrameLayout>
+	    
+	    <FrameLayout      
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_marginTop="10dp" >
+	        
+			<EditText
+			    android:id="@+id/namatxt"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:hint="Nama"
+			    android:inputType="none"
+			    android:width="450dp" >
+			</EditText>
+
+		    <requestFocus
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" >
+		    </requestFocus>
+		    
+		    <EditText
+		        android:id="@+id/emailtxt"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="40dp"
+		        android:hint="Email"
+		        android:inputType="none"
+		        android:width="450dp" >
+			</EditText>
+		          	
+		    <EditText
+		        android:id="@+id/komentartxt"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="80dp"
+		        android:hint="Komentar"
+		        android:inputType="textMultiLine"
+		        android:lines="5"
+		        android:width="450dp" >
+			</EditText>
+			
+		     <TextView
+	            android:id="@+id/jawabtv"                    
+	            android:layout_marginTop="220dp" 
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:text="Berapa jumlah huruf dari kata Lampung ?"
+	            android:textColor="#009347"
+	            />
+	
+		    <EditText
+		        android:id="@+id/jawabtxt"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="260dp"
+		        android:hint="Pertanyaan ?"
+		        android:inputType="none"	        
+		        android:width="450dp" >
+			</EditText>	   
+			
+		    <Button
+		        android:id="@+id/simbtn"       
+		        android:layout_width="75dp"
+		        android:layout_height="35dp"
+		        android:layout_marginTop="320dp"
+	            android:layout_marginBottom="10dp"  	        
+		        android:width="450dp" 
+		        android:text="Proses"
+		        android:textColor="#FFFFFF"
+		        android:textSize="14dp"
+		        android:textStyle="bold"
+		        android:background="#97C03C" >
+			</Button>
+			
+		    <Button
+		        android:id="@+id/btlbtn"       
+		        android:layout_width="75dp"
+		        android:layout_height="35dp"
+		        android:layout_marginTop="320dp"
+		        android:layout_marginLeft="80dp"		        
+	            android:layout_marginBottom="10dp"  	        
+		        android:width="450dp" 
+		        android:text="Batal"
+		        android:textColor="#FFFFFF"
+		        android:textSize="14dp"
+		        android:textStyle="bold"
+		        android:background="#97C03C" >
+			</Button>	
+					    
+	
+	    </FrameLayout>
+	
+	</LinearLayout>
+	
+</ScrollView>

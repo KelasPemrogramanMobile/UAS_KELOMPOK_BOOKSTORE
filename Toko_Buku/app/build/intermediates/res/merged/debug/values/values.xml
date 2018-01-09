@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_login">#009347</color>
+    <color name="bg_main">#009347</color>
+    <color name="bg_register">#009347</color>
+    <color name="btn_login">#009347</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="btn_logut_bg">#009347</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#ffffff</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="lbl_name">#333333</color>
+    <color name="white">#ffffff</color>
+    <string name="act_beli">Kantong Belanja</string>
+    <string name="act_buku">Daftar Buku</string>
+    <string name="act_cari">Pencarian</string>
+    <string name="act_cari_tampil">Hasil Pencarian</string>
+    <string name="act_checkout">Checkout</string>
+    <string name="act_daftar">Daftar Pelanggan</string>
+    <string name="act_email">Email</string>
+    <string name="act_home">Home</string>
+    <string name="act_isisk">Saran Kritik</string>
+    <string name="act_kembali">Kembali</string>
+    <string name="act_lhtsk">Saran Kritik</string>
+    <string name="act_tentkami">Hubungi Kami</string>
+    <string name="act_terbit">Akan Terbit</string>
+    <string name="app_name">BOOK STORE LAMPUNG</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_email">Input Username</string>
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="hint_password">Input Password</string>
+    <string name="menu_buku">Daftar Buku</string>
+    <string name="menu_cari">Pencarian</string>
+    <string name="menu_cari_tampil">Hasil Pencarian</string>
+    <string name="menu_daftar">Daftar Pelanggan</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_info">Hubungi Kami</string>
+    <string name="menu_isi_sk">Input Saran Kritik</string>
+    <string name="menu_kembali">Kembali</string>
+    <string name="menu_lihat_sk">Lihat Saran Kritik</string>
+    <string name="menu_terbit">Buku Akan Terbit</string>
+    <string name="name">name</string>
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#009347</item>
+        <item name="android:titleTextStyle">@style/TitleActionBar</item>     	   
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    	<item name="android:actionBarStyle">@style/ActionBar</item> 
+    	<item name="android:popupMenuStyle">@style/PopupMenu</item>
+		<item name="android:actionBarWidgetTheme">@style/Theme.stylingactionbar.widget</item>     	
+    </style>
+    <style name="PopupMenu" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">#009347</item>
+    </style>
+    <style name="Theme.stylingactionbar.widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+    </style>
+    <style name="TitleActionBar" parent="@android:style/TextAppearance">         
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#f8f8ff</item>             
+    </style>
+</resources>

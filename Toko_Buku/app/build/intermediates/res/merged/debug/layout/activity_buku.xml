@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >  
+   
+        
+        <LinearLayout 
+  	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingLeft="2dip"
+	    android:paddingRight="2dip"
+	    android:paddingBottom="10dip"  	
+        android:layout_alignParentLeft="true"
+        android:background="#fffefe" 
+	    android:layout_marginRight="8dip"
+        >  	         
+                   
+        <ImageView     
+			android:id="@+id/gbrimg" 
+	        android:layout_width="50dip"
+	        android:layout_height="95dip"
+	        android:src="@drawable/cover"/>
+            
+        </LinearLayout>
+             		                
+		<FrameLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent" 
+			android:layout_marginTop="2dp" 
+			android:layout_marginRight="2dp" 
+			android:layout_marginBottom="2dp" 
+			>
+			
+				                        	        			    
+		    <TextView 
+				android:id="@+id/judtxt"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="Judul Buku"
+			    android:textSize="12dp"
+			    android:textColor="#009347"
+			    android:textStyle="bold" />	        
+		        
+		        <ImageView 
+		        android:id="@+id/penulisimg"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+			    android:layout_marginTop="17dp" 	
+		        android:background="@drawable/ic_action_labels_2"      
+		        />
+		                
+				<TextView 
+			        android:id="@+id/penulistxt"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginTop="15dp" 
+			        android:layout_marginLeft="15dp" 
+			        android:text="Penulis"
+			        android:textStyle="bold"
+			        android:textSize="10dp"        
+		        />   
+		        
+		        <ImageView 
+			        android:id="@+id/kodeimg"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+				    android:layout_marginTop="28dp" 	
+			        android:background="@drawable/ic_action_labels_4"      
+		        />
+		        				
+				<TextView 
+			        android:id="@+id/kodetxt"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginTop="28dp" 
+			        android:layout_marginLeft="15dp" 
+			        android:text="Kode Buku"
+			        android:textSize="8dp"        
+		        />  	
+		        
+		        <ImageView 
+			        android:id="@+id/hrgimg"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+				    android:layout_marginTop="39dp" 	
+			        android:background="@drawable/ic_action_labels_5"      
+		        />
+		        				
+				<TextView 
+			        android:id="@+id/hrgtxt"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginTop="39dp" 
+			        android:layout_marginLeft="15dp" 
+			        android:text="Harga Buku"
+			        android:textSize="8dp"
+			        android:textColor="#E20D0D"       	
+		        /> 
+		        		        
+				<TextView 
+			        android:id="@+id/bonustxt"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginTop="52dp" 
+			        android:layout_marginLeft="2dp" 
+			        android:text="Bonus : -"
+			        android:textSize="8dp"
+			        android:textStyle="italic"
+		        /> 				
+		        
+				<RatingBar
+				    android:id="@+id/ratingbar"
+				    style="?android:attr/ratingBarStyleSmall"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_gravity="right"
+				    android:layout_marginRight="2dp"
+				    android:layout_marginTop="47dp"
+				    android:isIndicator="true"
+				    android:numStars="5"
+				    android:rating="0.0"
+				    android:stepSize="1.0" />  
+				    
+				<TextView
+				    android:id="@+id/deskripsitxt"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_marginLeft="2dp"
+				    android:layout_marginTop="67dp"
+				    android:text="Lead"
+				    android:textSize="8dp"
+				     />
+				
+		</FrameLayout>	
+</LinearLayout>
+    
+    
+
+

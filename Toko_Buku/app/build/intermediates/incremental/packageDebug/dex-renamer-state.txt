@@ -1,0 +1,7 @@
+#Sun Jan 07 20:17:54 ICT 2018
+base.0=D\:\\as\\Toko_Buku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4aa6350340d138d803989f558eb53ffa2a6028cf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\as\\Toko_Buku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39f7b103b4e8176d34e4e458cfa1ab99214c1b9c\\classes.dex
+base.1=D\:\\as\\Toko_Buku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39f7b103b4e8176d34e4e458cfa1ab99214c1b9c
+file.0=D\:\\as\\Toko_Buku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4aa6350340d138d803989f558eb53ffa2a6028cf\\classes.dex

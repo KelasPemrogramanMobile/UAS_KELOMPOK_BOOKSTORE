@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\as\Toko_Buku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d6b1af741696478d056f8f72577d3542fedad69a">
+        <dex dex="D:\as\Toko_Buku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4aa6350340d138d803989f558eb53ffa2a6028cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\as\Toko_Buku\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_85e34bcfaecf46fdb200ffb3df40ba986bed7718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\as\Toko_Buku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="123a66060b567af0c9af3b1ab22b19916287d552">
+        <dex dex="D:\as\Toko_Buku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_39f7b103b4e8176d34e4e458cfa1ab99214c1b9c\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item
+     android:id="@+id/menu_cari"
+     android:icon="@drawable/ic_action_search2"  
+     android:showAsAction="always"/>
+<item
+    android:id="@+id/menu_home"
+    android:icon="@drawable/ic_action_home"   
+    android:title="Menu_Home"
+    android:showAsAction="always">
+</item>
+</menu>
